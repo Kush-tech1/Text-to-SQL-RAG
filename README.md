@@ -1,5 +1,5 @@
 # Text-to-SQL RAG System
-
+![image](image.png)
 ## 🚀 Overview
 
 **Text-to-SQL RAG** converts natural-language questions into **accurate MySQL queries** using **semantic retrieval**, **few-shot examples**, and **prompt engineering** to ensure the LLM generates schema-correct SQL without hallucinations.
